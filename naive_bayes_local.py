@@ -17,7 +17,7 @@ from nltk.stem import PorterStemmer
 
 lemmatizer =PorterStemmer()
 
-f = open('/scratch/ds222-2017/assignment-1/DBPedia.full/full_train.txt')
+f = open('/user/ds222/assignment-1/DBPedia.full/full_train.txt')
 
 text={}
 label={}
@@ -101,7 +101,7 @@ prior=[(sum([row[i] for row in encoded]))/countDocuments for i in range(0,len(en
 test set accuracy
 '''
 
-f_dev = open('/scratch/ds222-2017/assignment-1/DBPedia.full/full_test.txt')
+f_dev = open('/user/ds222/assignment-1/DBPedia.full/full_test.txt')
 text_dev={}
 label_dev={}
 countDocuments_dev=0
