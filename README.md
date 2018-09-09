@@ -1,4 +1,4 @@
-# DS222-assignment-1
+# DS222
 ## Assignment 1: 
 ### Run Naive Bayes' on 
 (i) local    
