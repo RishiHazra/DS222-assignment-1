@@ -1,0 +1,6 @@
+Local Naive Bayes' 		   : 5 min
+Map Reduce for numReduceTasks = 1  : 7 min 47 sec
+Map Reduce for numReduceTasks = 2  : 5 min 41 sec
+Map Reduce for numReduceTasks = 5  : 4 min 49 sec
+Map Reduce for numReduceTasks = 8  : 4 min 32 sec
+Map Reduce for numReduceTasks = 10 : 4 min 28 sec
