@@ -1,2 +1,3 @@
 # DS222-assignment-1
-Assignement 1 hadoop
+Assignment 1 hadoop
+Run Naive Bayes' on local and Hadoop framework
