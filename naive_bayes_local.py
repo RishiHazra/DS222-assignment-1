@@ -17,7 +17,7 @@ from nltk.stem import PorterStemmer
 
 lemmatizer =PorterStemmer()
 
-f = open('/user/ds222/assignment-1/DBPedia.full/full_train.txt')
+f = open('/home/rishixtreme/ds222/assignment-1/DBPedia.full/full_train.txt')
 
 text={}
 label={}
